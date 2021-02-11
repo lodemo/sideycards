@@ -1,0 +1,28 @@
+---
+layout: default
+page-title: Projects
+---
+
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+    <li>
+
+        <div class="card"> 
+            <div class="card-body"> 
+                <h3 class="panel-title font-weight-bold"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3> 
+                <p>{{ post.summary }}</p> 
+                <span class="post-meta">
+                    <small><time datetime="{{ post.date | date_to_xmlschema }}">{{post.date|date: "%m-%d-%Y" }}</time></small>
+                </span>
+            </div> 
+            <div class="image-content">
+                <img class="image-result" href="{{ site.baseurl }}{{ post.url }}" src="https://picsum.photos/510/300?random" alt="Image"> 
+            </div>
+        </div>
+
+    </li>
+{% endfor %}
+</ul>
+</section>
+
