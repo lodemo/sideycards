@@ -2,7 +2,7 @@
 
 SideyCards is a very simple jekyll theme based on [Sidey](https://github.com/ronv/sidey). Template for my personal webpage.
 
-Main difference to the original Sidey is the introduction of Cards for the post preview. Addtionally SEO optimizations are removed and Robots.txt is configured *against* search engine scraping.
+Main difference to Sidey is the introduction of Cards for the post previews. Addtionally SEO optimizations are removed and Robots.txt is configured *against* search engine scraping.
 
 ### Features
 
