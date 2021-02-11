@@ -20,8 +20,8 @@ Main difference to the original Sidey is the introduction of Cards for the post 
 - Sass
 - Sidebar navigation
 
-### Screenshot
-
+### Screenshots
+#### Desktop
 ![Screenshot Desktop](screenshot_desktop.jpg)
-
+#### Mobile
 ![Screenshot Mobile](screenshot_mobile.jpg)
