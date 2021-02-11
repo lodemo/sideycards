@@ -22,6 +22,6 @@ Main difference to the original Sidey is the introduction of Cards for the post 
 
 ### Screenshot
 
-![Screenshot Desktop](screenshot_desktop.png)
+![Screenshot Desktop](screenshot_desktop.jpg)
 
-![Screenshot Mobile](screenshot_mobile.png)
+![Screenshot Mobile](screenshot_mobile.jpg)
