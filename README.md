@@ -20,6 +20,6 @@ Main difference to Sidey is the introduction of Cards for the post previews. Add
 
 ### Screenshots
 #### Desktop
-![Screenshot Desktop](screenshot_desktop.jpg)
+![Screenshot Desktop](screenshot_desktop.png)
 #### Mobile
-![Screenshot Mobile](screenshot_mobile.jpg)
+![Screenshot Mobile](screenshot_mobile.png)
